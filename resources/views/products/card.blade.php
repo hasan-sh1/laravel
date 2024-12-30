@@ -1,0 +1,1 @@
+<img src="{{ asset($product->image) }}" alt="{{ $product->name }}" class="product-image"> 
